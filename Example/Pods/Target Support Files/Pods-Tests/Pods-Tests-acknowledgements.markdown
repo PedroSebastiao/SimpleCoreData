@@ -3,6 +3,8 @@ This application makes use of the following third party libraries:
 
 ## SimpleCoreData
 
+The MIT License (MIT)
+
 Copyright (c) 2015 Pedro Sebastião <pedro@sebastiao.eu>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
