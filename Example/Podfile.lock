@@ -1,0 +1,14 @@
+PODS:
+  - SimpleCoreData (0.1.0)
+
+DEPENDENCIES:
+  - SimpleCoreData (from `../`)
+
+EXTERNAL SOURCES:
+  SimpleCoreData:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SimpleCoreData: 294114df91d39475e98a2b2d23bf27945772f4df
+
+COCOAPODS: 0.35.0
